@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "82d5648f04980659",
+        "id": "37a4a4172b2ff74b",
         "type": "tabs",
         "children": [
           {
-            "id": "1aeb3c46169b702e",
+            "id": "6bf0a79a4a24f899",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "lecciones/tema2_leccion2/README.md",
+                "file": "en/01 - Lesson 1 - A Time of Crisis and Unemployment.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "01 - Lesson 1 - A Time of Crisis and Unemployment"
             }
           }
         ]
@@ -180,11 +180,57 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "1aeb3c46169b702e",
+  "active": "6bf0a79a4a24f899",
   "lastOpenFiles": [
-    "lecciones/tema1_ejercicios/README.md"
+    "lecciones/01 - Les 1 - Een tijd van crisis en werkloosheid/README.md",
+    "en/01 - Lesson 1 - A Time of Crisis and Unemployment.md",
+    "en",
+    "lecciones/01 - Les 2 - Louis Doedel en Anton de Kom/README.md",
+    "lecciones/06 - Les 2 - Invoering van kiesrecht/images/page82_img1.png",
+    "lecciones/06 - Les 2 - Invoering van kiesrecht/images/page82_img2.png",
+    "lecciones/06 - Les 2 - Invoering van kiesrecht/images/page83_img4.png",
+    "lecciones/06 - Les 2 - Invoering van kiesrecht/images/page83_img3.png",
+    "lecciones/06 - Les 2 - Invoering van kiesrecht/images/page83_img2.png",
+    "lecciones/06 - Les 2 - Invoering van kiesrecht/images/page83_img1.png",
+    "lecciones/06 - Les 2 - Invoering van kiesrecht/images/page82_img6.png",
+    "lecciones/06 - Les 2 - Invoering van kiesrecht/images/page82_img5.png",
+    "lecciones/06 - Les 2 - Invoering van kiesrecht/images/page82_img4.png",
+    "lecciones/06 - Les 2 - Invoering van kiesrecht/images/page82_img3.png",
+    "lecciones/06 - Les 2 - Invoering van kiesrecht/README.md",
+    "lecciones/06 - Les 2 - Invoering van kiesrecht/images",
+    "lecciones/06 - Les 2 - Invoering van kiesrecht",
+    "lecciones/06 - Les 1 - De gouverneur en de Politieke Raad/README.md",
+    "lecciones/06 - Les 1 - De gouverneur en de Politieke Raad/images",
+    "lecciones/06 - Les 1 - De gouverneur en de Politieke Raad",
+    "lecciones/06 - Hoe ons land werd bestuurd/images",
+    "lecciones/06 - Hoe ons land werd bestuurd/README.md",
+    "lecciones/06 - Hoe ons land werd bestuurd",
+    "lecciones/05 - Verwerkingsopdrachten/README.md",
+    "lecciones/05 - Verwerkingsopdrachten",
+    "lecciones/05 - Les 3 - Sociale ontwikkeling/images",
+    "lecciones/05 - Les 3 - Sociale ontwikkeling/README.md",
+    "lecciones/05 - Les 3 - Sociale ontwikkeling",
+    "lecciones/05 - Les 2 - De stuwdam in de Surinamerivier/README.md",
+    "lecciones/05 - Les 1 - Ontwikkelingshulp aan ons land/README.md",
+    "lecciones/05 - Ontwikkeling van ons land na 1945/README.md",
+    "lecciones/04 - Verwerkingsopdrachten/README.md",
+    "lecciones/04 - Les 3 - De bauxietindustrie in ons land/README.md",
+    "lecciones/04 - Les 2 - De veiligheid in ons land/README.md",
+    "lecciones/04 - Les 1 - Oorlog met Duitsland/README.md",
+    "lecciones/04 - Ons land tijdens de Tweede Wereldoorlog/README.md",
+    "lecciones/03 - Verwerkingsopdrachten/README.md",
+    "lecciones/03 - Les 3 - Ons land een smeltkroes van culturen/README.md",
+    "lecciones/03 - Les 2 - Het beleven van cultuur/README.md",
+    "lecciones/03 - Les 1 - Hoe wij hier ook samenkwamen/README.md",
+    "lecciones/tema7_ejercicios/README.md",
+    "lecciones/tema6_ejercicios/README.md",
+    "lecciones/tema2_ejercicios/README.md",
+    "lecciones/tema1_ejercicios/README.md",
+    "lecciones/tema7_leccion3/README.md",
+    "lecciones/tema7_leccion2/README.md"
   ]
 }
