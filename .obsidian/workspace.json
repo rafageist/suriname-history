@@ -11,10 +11,10 @@
             "id": "6bf0a79a4a24f899",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -180,8 +180,15 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "db0dc36b315f8dd8",
+  "active": "6bf0a79a4a24f899",
   "lastOpenFiles": [
+    "03 - Lesson 3 - Trade Unions and Trade Union Federations.md",
+    "lecciones/01 - Les 2 - Louis Doedel en Anton de Kom/images",
+    "lecciones/01 - Les 2 - Louis Doedel en Anton de Kom/README.md",
+    "lecciones/01 - Les 2 - Louis Doedel en Anton de Kom",
+    "02 - Lesson 2 - Louis Doedel and Anton de Kom.md",
+    "01 - Lesson 1 - A Time of Crisis and Unemployment.md",
+    "lecciones/01 - Arbeiders komen op voor een beter bestaan/images/page12_img2.png",
     "lecciones/images/page99_img8.png",
     "lecciones/images/page93_img5.png",
     "lecciones/images/page99_img7.png",
@@ -191,8 +198,6 @@
     "lecciones/images/page99_img4.png",
     "lecciones/images/page99_img3.png",
     "lecciones/images/page99_img2.png",
-    "lecciones/images/page99_img1.png",
-    "lecciones/images/page98_img3.png",
     "lecciones/images",
     "lecciones/07 - Verwerkingsopdrachten/README.md",
     "lecciones/07 - Verwerkingsopdrachten",
@@ -206,8 +211,6 @@
     "lecciones/07 - Les 2 - Een staatsgreep in ons land/images",
     "lecciones/07 - Les 2 - Een staatsgreep in ons land",
     "lecciones/07 - Les 1 - De onafhankelijkheid van ons land/README.md",
-    "lecciones/07 - Les 1 - De onafhankelijkheid van ons land/images",
-    "lecciones/07 - Les 1 - De onafhankelijkheid van ons land",
     "lecciones/06 - Les 2 - Invoering van kiesrecht/README.md",
     "lecciones/06 - Les 1 - De gouverneur en de Politieke Raad/README.md",
     "lecciones/06 - Hoe ons land werd bestuurd/README.md",
@@ -224,9 +227,6 @@
     "lecciones/03 - Les 2 - Het beleven van cultuur/README.md",
     "lecciones/03 - Les 1 - Hoe wij hier ook samenkwamen/README.md",
     "lecciones/02 - Les 1 - Hoe was het vroeger/README.md",
-    "lecciones/02 - Het onderwijs in ons land/README.md",
-    "lecciones/01 - Verwerkingsopdrachten/README.md",
-    "lecciones/01 - Les 3 - Vakbonden en vakcentrales/README.md",
-    "lecciones/01 - Arbeiders komen op voor een beter bestaan/README.md"
+    "lecciones/02 - Het onderwijs in ons land/README.md"
   ]
 }
