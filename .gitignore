@@ -1,0 +1,8 @@
+
+# PDF files (source material)
+*.pdf
+suriname-history.pdf
+suriname-history-teacher-guide.pdf
+
+# Obsidian vault
+.obsidian/
