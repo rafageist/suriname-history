@@ -45,11 +45,11 @@ At independence, our country also received a national flag
 
 ### Lesson Images
 
-![Image](_images/page91_img1.jpeg)
+![Image](../_images/page91_img1.jpeg)
 
-![Image](_images/page92_img1.png)
+![Image](../_images/page92_img1.png)
 
-![Image](_images/page92_img2.png)
+![Image](../_images/page92_img2.png)
 
 ---
 

@@ -93,35 +93,35 @@ Revolution Monument at the Waterkant
 
 ### Lesson Images
 
-![Image](_images/page96_img1.png)
+![Image](../_images/page96_img1.png)
 
-![Image](_images/page96_img2.png)
+![Image](../_images/page96_img2.png)
 
-![Image](_images/page96_img3.png)
+![Image](../_images/page96_img3.png)
 
-![Image](_images/page96_img4.png)
+![Image](../_images/page96_img4.png)
 
-![Image](_images/page97_img1.png)
+![Image](../_images/page97_img1.png)
 
-![Image](_images/page97_img2.png)
+![Image](../_images/page97_img2.png)
 
-![Image](_images/page97_img3.png)
+![Image](../_images/page97_img3.png)
 
-![Image](_images/page97_img4.png)
+![Image](../_images/page97_img4.png)
 
-![Image](_images/page97_img5.png)
+![Image](../_images/page97_img5.png)
 
-![Image](_images/page97_img6.png)
+![Image](../_images/page97_img6.png)
 
-![Image](_images/page97_img7.png)
+![Image](../_images/page97_img7.png)
 
-![Image](_images/page97_img8.png)
+![Image](../_images/page97_img8.png)
 
-![Image](_images/page98_img1.png)
+![Image](../_images/page98_img1.png)
 
-![Image](_images/page98_img2.png)
+![Image](../_images/page98_img2.png)
 
-![Image](_images/page98_img3.png)
+![Image](../_images/page98_img3.png)
 
 ---
 

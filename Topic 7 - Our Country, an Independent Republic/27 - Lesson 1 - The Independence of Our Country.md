@@ -95,19 +95,19 @@ QUESTIONS
 
 ### Lesson Images
 
-![Image](_images/page93_img1.jpeg)
+![Image](../_images/page93_img1.jpeg)
 
-![Image](_images/page93_img2.png)
+![Image](../_images/page93_img2.png)
 
-![Image](_images/page93_img3.png)
+![Image](../_images/page93_img3.png)
 
-![Image](_images/page93_img4.png)
+![Image](../_images/page93_img4.png)
 
-![Image](_images/page93_img5.png)
+![Image](../_images/page93_img5.png)
 
-![Image](_images/page94_img1.jpeg)
+![Image](../_images/page94_img1.jpeg)
 
-![Image](_images/page94_img2.png)
+![Image](../_images/page94_img2.png)
 
 ---
 

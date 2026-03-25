@@ -140,15 +140,15 @@ c. At this trade union school, they learned/learn the importance of leadership a
 
 ## Images
 
-![_images/page19_img1.png](_images/page19_img1.png)
+![_images/page19_img1.png](../_images/page19_img1.png)
 
-![_images/page20_img1.png](_images/page20_img1.png)
+![_images/page20_img1.png](../_images/page20_img1.png)
 
-![_images/page21_img1.jpeg](_images/page21_img1.jpeg)
+![_images/page21_img1.jpeg](../_images/page21_img1.jpeg)
 
-![_images/page21_img2.png](_images/page21_img2.png)
+![_images/page21_img2.png](../_images/page21_img2.png)
 
-![_images/page21_img3.png](_images/page21_img3.png)
+![_images/page21_img3.png](../_images/page21_img3.png)
 
 ---
 

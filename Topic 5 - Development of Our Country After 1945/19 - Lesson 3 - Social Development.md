@@ -100,41 +100,41 @@ QUESTIONS
 
 ### Lesson Images
 
-![Image](_images/page73_img1.png)
+![Image](../_images/page73_img1.png)
 
-![Image](_images/page73_img2.png)
+![Image](../_images/page73_img2.png)
 
-![Image](_images/page73_img3.png)
+![Image](../_images/page73_img3.png)
 
-![Image](_images/page73_img4.png)
+![Image](../_images/page73_img4.png)
 
-![Image](_images/page73_img5.png)
+![Image](../_images/page73_img5.png)
 
-![Image](_images/page73_img6.png)
+![Image](../_images/page73_img6.png)
 
-![Image](_images/page74_img1.png)
+![Image](../_images/page74_img1.png)
 
-![Image](_images/page74_img2.png)
+![Image](../_images/page74_img2.png)
 
-![Image](_images/page74_img3.png)
+![Image](../_images/page74_img3.png)
 
-![Image](_images/page74_img4.png)
+![Image](../_images/page74_img4.png)
 
-![Image](_images/page74_img5.png)
+![Image](../_images/page74_img5.png)
 
-![Image](_images/page74_img6.png)
+![Image](../_images/page74_img6.png)
 
-![Image](_images/page74_img7.png)
+![Image](../_images/page74_img7.png)
 
-![Image](_images/page74_img8.png)
+![Image](../_images/page74_img8.png)
 
-![Image](_images/page74_img9.png)
+![Image](../_images/page74_img9.png)
 
-![Image](_images/page75_img1.png)
+![Image](../_images/page75_img1.png)
 
-![Image](_images/page75_img2.png)
+![Image](../_images/page75_img2.png)
 
-![Image](_images/page75_img3.png)
+![Image](../_images/page75_img3.png)
 
 ---
 

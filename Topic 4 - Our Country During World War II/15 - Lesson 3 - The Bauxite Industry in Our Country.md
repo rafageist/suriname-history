@@ -72,17 +72,17 @@ QUESTIONS
 
 ### Lesson Images
 
-![Image](_images/page61_img1.png)
+![Image](../_images/page61_img1.png)
 
-![Image](_images/page61_img2.png)
+![Image](../_images/page61_img2.png)
 
-![Image](_images/page61_img3.png)
+![Image](../_images/page61_img3.png)
 
-![Image](_images/page61_img4.png)
+![Image](../_images/page61_img4.png)
 
-![Image](_images/page62_img1.png)
+![Image](../_images/page62_img1.png)
 
-![Image](_images/page62_img2.jpeg)
+![Image](../_images/page62_img2.jpeg)
 
 ---
 

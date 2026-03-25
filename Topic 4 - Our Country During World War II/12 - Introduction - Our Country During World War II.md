@@ -33,13 +33,13 @@ Airplanes and bombs. Submarines and air raid alarms. A war is not a nice time. S
 
 ## Images
 
-![_images/page53_img1.png](_images/page53_img1.png)
+![_images/page53_img1.png](../_images/page53_img1.png)
 
-![_images/page54_img1.jpeg](_images/page54_img1.jpeg)
+![_images/page54_img1.jpeg](../_images/page54_img1.jpeg)
 
-![_images/page54_img2.png](_images/page54_img2.png)
+![_images/page54_img2.png](../_images/page54_img2.png)
 
-![_images/page54_img3.png](_images/page54_img3.png)
+![_images/page54_img3.png](../_images/page54_img3.png)
 
 ---
 

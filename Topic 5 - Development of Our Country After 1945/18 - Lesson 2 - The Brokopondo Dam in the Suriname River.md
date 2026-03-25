@@ -100,27 +100,27 @@ QUESTIONS
 
 ### Lesson Images
 
-![Image](_images/page70_img1.jpeg)
+![Image](../_images/page70_img1.jpeg)
 
-![Image](_images/page70_img2.png)
+![Image](../_images/page70_img2.png)
 
-![Image](_images/page70_img3.png)
+![Image](../_images/page70_img3.png)
 
-![Image](_images/page70_img4.png)
+![Image](../_images/page70_img4.png)
 
-![Image](_images/page70_img5.png)
+![Image](../_images/page70_img5.png)
 
-![Image](_images/page70_img6.png)
+![Image](../_images/page70_img6.png)
 
-![Image](_images/page70_img7.png)
+![Image](../_images/page70_img7.png)
 
-![Image](_images/page71_img1.png)
+![Image](../_images/page71_img1.png)
 
-![Image](_images/page71_img2.png)
+![Image](../_images/page71_img2.png)
 
-![Image](_images/page71_img3.png)
+![Image](../_images/page71_img3.png)
 
-![Image](_images/page71_img4.png)
+![Image](../_images/page71_img4.png)
 
 ---
 

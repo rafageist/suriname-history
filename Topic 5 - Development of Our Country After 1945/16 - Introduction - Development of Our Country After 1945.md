@@ -47,11 +47,11 @@ A school under construction
 
 ### Lesson Images
 
-![Image](_images/page65_img1.png)
+![Image](../_images/page65_img1.png)
 
-![Image](_images/page66_img1.png)
+![Image](../_images/page66_img1.png)
 
-![Image](_images/page66_img2.png)
+![Image](../_images/page66_img2.png)
 
 ---
 

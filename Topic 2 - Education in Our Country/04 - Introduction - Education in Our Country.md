@@ -32,11 +32,11 @@ This topic is about education in our country. How it was in the past and what ch
 
 ## Images
 
-![_images/page25_img1.png](_images/page25_img1.png)
+![_images/page25_img1.png](../_images/page25_img1.png)
 
-![_images/page26_img1.png](_images/page26_img1.png)
+![_images/page26_img1.png](../_images/page26_img1.png)
 
-![_images/page26_img2.png](_images/page26_img2.png)
+![_images/page26_img2.png](../_images/page26_img2.png)
 
 ---
 

@@ -32,11 +32,11 @@ When the conditions under which people work and live are not good, they protest 
 
 ## Images
 
-![_images/page11_img1.png](_images/page11_img1.png)
+![_images/page11_img1.png](../_images/page11_img1.png)
 
-![_images/page12_img1.png](_images/page12_img1.png)
+![_images/page12_img1.png](../_images/page12_img1.png)
 
-![_images/page12_img2.png](_images/page12_img2.png)
+![_images/page12_img2.png](../_images/page12_img2.png)
 
 ---
 

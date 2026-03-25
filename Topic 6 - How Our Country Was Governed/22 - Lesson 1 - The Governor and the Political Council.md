@@ -103,11 +103,11 @@ QUESTIONS
 
 ### Lesson Images
 
-![Image](_images/page79_img1.png)
+![Image](../_images/page79_img1.png)
 
-![Image](_images/page80_img1.png)
+![Image](../_images/page80_img1.png)
 
-![Image](_images/page80_img2.png)
+![Image](../_images/page80_img2.png)
 
 ---
 

@@ -68,31 +68,31 @@ II. The Germans in our country were arrested because the Netherlands was occupie
 
 ## Images
 
-![_images/page55_img1.png](_images/page55_img1.png)
+![_images/page55_img1.png](../_images/page55_img1.png)
 
-![_images/page55_img2.png](_images/page55_img2.png)
+![_images/page55_img2.png](../_images/page55_img2.png)
 
-![_images/page55_img3.png](_images/page55_img3.png)
+![_images/page55_img3.png](../_images/page55_img3.png)
 
-![_images/page55_img4.png](_images/page55_img4.png)
+![_images/page55_img4.png](../_images/page55_img4.png)
 
-![_images/page55_img5.jpeg](_images/page55_img5.jpeg)
+![_images/page55_img5.jpeg](../_images/page55_img5.jpeg)
 
-![_images/page56_img1.png](_images/page56_img1.png)
+![_images/page56_img1.png](../_images/page56_img1.png)
 
-![_images/page56_img2.png](_images/page56_img2.png)
+![_images/page56_img2.png](../_images/page56_img2.png)
 
-![_images/page56_img3.png](_images/page56_img3.png)
+![_images/page56_img3.png](../_images/page56_img3.png)
 
-![_images/page56_img4.png](_images/page56_img4.png)
+![_images/page56_img4.png](../_images/page56_img4.png)
 
-![_images/page56_img5.jpeg](_images/page56_img5.jpeg)
+![_images/page56_img5.jpeg](../_images/page56_img5.jpeg)
 
-![_images/page56_img6.png](_images/page56_img6.png)
+![_images/page56_img6.png](../_images/page56_img6.png)
 
-![_images/page57_img1.png](_images/page57_img1.png)
+![_images/page57_img1.png](../_images/page57_img1.png)
 
-![_images/page57_img2.png](_images/page57_img2.png)
+![_images/page57_img2.png](../_images/page57_img2.png)
 
 ---
 

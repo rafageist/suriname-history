@@ -45,9 +45,9 @@ Signing of the Charter by the Dutch queen
 
 ### Lesson Images
 
-![Image](_images/page77_img1.jpeg)
+![Image](../_images/page77_img1.jpeg)
 
-![Image](_images/page78_img1.png)
+![Image](../_images/page78_img1.png)
 
 ---
 

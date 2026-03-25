@@ -74,21 +74,21 @@ II. With the diploma of primary school, you can practice a profession.
 
 ## Images
 
-![_images/page34_img1.png](_images/page34_img1.png)
+![_images/page34_img1.png](../_images/page34_img1.png)
 
-![_images/page34_img2.png](_images/page34_img2.png)
+![_images/page34_img2.png](../_images/page34_img2.png)
 
-![_images/page34_img3.png](_images/page34_img3.png)
+![_images/page34_img3.png](../_images/page34_img3.png)
 
-![_images/page34_img4.png](_images/page34_img4.png)
+![_images/page34_img4.png](../_images/page34_img4.png)
 
-![_images/page34_img5.png](_images/page34_img5.png)
+![_images/page34_img5.png](../_images/page34_img5.png)
 
-![_images/page35_img1.png](_images/page35_img1.png)
+![_images/page35_img1.png](../_images/page35_img1.png)
 
-![_images/page35_img2.png](_images/page35_img2.png)
+![_images/page35_img2.png](../_images/page35_img2.png)
 
-![_images/page35_img3.png](_images/page35_img3.png)
+![_images/page35_img3.png](../_images/page35_img3.png)
 
 ---
 

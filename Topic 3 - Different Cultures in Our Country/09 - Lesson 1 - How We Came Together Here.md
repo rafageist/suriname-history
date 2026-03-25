@@ -96,25 +96,25 @@ II. Today, most population groups in our country know the stories of Anansi.
 
 ## Images
 
-![_images/page41_img1.jpeg](_images/page41_img1.jpeg)
+![_images/page41_img1.jpeg](../_images/page41_img1.jpeg)
 
-![_images/page41_img2.jpeg](_images/page41_img2.jpeg)
+![_images/page41_img2.jpeg](../_images/page41_img2.jpeg)
 
-![_images/page42_img1.png](_images/page42_img1.png)
+![_images/page42_img1.png](../_images/page42_img1.png)
 
-![_images/page42_img2.png](_images/page42_img2.png)
+![_images/page42_img2.png](../_images/page42_img2.png)
 
-![_images/page42_img3.png](_images/page42_img3.png)
+![_images/page42_img3.png](../_images/page42_img3.png)
 
-![_images/page42_img4.png](_images/page42_img4.png)
+![_images/page42_img4.png](../_images/page42_img4.png)
 
-![_images/page42_img5.png](_images/page42_img5.png)
+![_images/page42_img5.png](../_images/page42_img5.png)
 
-![_images/page42_img6.png](_images/page42_img6.png)
+![_images/page42_img6.png](../_images/page42_img6.png)
 
-![_images/page43_img1.jpeg](_images/page43_img1.jpeg)
+![_images/page43_img1.jpeg](../_images/page43_img1.jpeg)
 
-![_images/page44_img1.png](_images/page44_img1.png)
+![_images/page44_img1.png](../_images/page44_img1.png)
 
 ---
 

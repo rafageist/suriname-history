@@ -86,9 +86,9 @@ b. Explain whether today education far from Paramaribo is still less well organi
 
 ## Images
 
-![_images/page31_img1.png](_images/page31_img1.png)
+![_images/page31_img1.png](../_images/page31_img1.png)
 
-![_images/page32_img1.jpeg](_images/page32_img1.jpeg)
+![_images/page32_img1.jpeg](../_images/page32_img1.jpeg)
 
 ---
 

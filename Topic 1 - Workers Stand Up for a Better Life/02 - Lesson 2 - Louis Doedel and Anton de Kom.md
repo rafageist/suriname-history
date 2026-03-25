@@ -157,19 +157,19 @@ c. *The answer may vary per student.*
 
 ## Images
 
-![_images/page16_img1.png](_images/page16_img1.png)
+![_images/page16_img1.png](../_images/page16_img1.png)
 
-![_images/page16_img2.jpeg](_images/page16_img2.jpeg)
+![_images/page16_img2.jpeg](../_images/page16_img2.jpeg)
 
-![_images/page16_img3.png](_images/page16_img3.png)
+![_images/page16_img3.png](../_images/page16_img3.png)
 
-![_images/page16_img4.png](_images/page16_img4.png)
+![_images/page16_img4.png](../_images/page16_img4.png)
 
-![_images/page16_img5.png](_images/page16_img5.png)
+![_images/page16_img5.png](../_images/page16_img5.png)
 
-![_images/page17_img1.jpeg](_images/page17_img1.jpeg)
+![_images/page17_img1.jpeg](../_images/page17_img1.jpeg)
 
-![_images/page17_img2.png](_images/page17_img2.png)
+![_images/page17_img2.png](../_images/page17_img2.png)
 
 ---
 

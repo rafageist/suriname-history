@@ -26,13 +26,13 @@ Green, red, yellow, so many different colors and costumes. Everyone has somethin
 
 ## Images
 
-![_images/page39_img1.png](_images/page39_img1.png)
+![_images/page39_img1.png](../_images/page39_img1.png)
 
-![_images/page40_img1.png](_images/page40_img1.png)
+![_images/page40_img1.png](../_images/page40_img1.png)
 
-![_images/page40_img2.png](_images/page40_img2.png)
+![_images/page40_img2.png](../_images/page40_img2.png)
 
-![_images/page40_img3.png](_images/page40_img3.png)
+![_images/page40_img3.png](../_images/page40_img3.png)
 
 ---
 

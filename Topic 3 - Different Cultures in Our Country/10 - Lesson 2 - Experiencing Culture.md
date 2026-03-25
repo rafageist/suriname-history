@@ -74,21 +74,21 @@ b. Explain why you say that.
 
 ## Images
 
-![_images/page45_img1.png](_images/page45_img1.png)
+![_images/page45_img1.png](../_images/page45_img1.png)
 
-![_images/page45_img2.png](_images/page45_img2.png)
+![_images/page45_img2.png](../_images/page45_img2.png)
 
-![_images/page45_img3.png](_images/page45_img3.png)
+![_images/page45_img3.png](../_images/page45_img3.png)
 
-![_images/page45_img4.png](_images/page45_img4.png)
+![_images/page45_img4.png](../_images/page45_img4.png)
 
-![_images/page45_img5.jpeg](_images/page45_img5.jpeg)
+![_images/page45_img5.jpeg](../_images/page45_img5.jpeg)
 
-![_images/page46_img1.png](_images/page46_img1.png)
+![_images/page46_img1.png](../_images/page46_img1.png)
 
-![_images/page46_img2.png](_images/page46_img2.png)
+![_images/page46_img2.png](../_images/page46_img2.png)
 
-![_images/page46_img3.png](_images/page46_img3.png)
+![_images/page46_img3.png](../_images/page46_img3.png)
 
 ---
 

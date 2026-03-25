@@ -118,15 +118,15 @@ b. No, that was not a good decision, because there was also no work to be found 
 
 ## Images
 
-![_images/page13_img1.png](_images/page13_img1.png)
+![_images/page13_img1.png](../_images/page13_img1.png)
 
-![_images/page14_img1.jpeg](_images/page14_img1.jpeg)
+![_images/page14_img1.jpeg](../_images/page14_img1.jpeg)
 
-![_images/page14_img2.png](_images/page14_img2.png)
+![_images/page14_img2.png](../_images/page14_img2.png)
 
-![_images/page14_img3.png](_images/page14_img3.png)
+![_images/page14_img3.png](../_images/page14_img3.png)
 
-![_images/page14_img4.png](_images/page14_img4.png)
+![_images/page14_img4.png](../_images/page14_img4.png)
 
 ---
 

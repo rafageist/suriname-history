@@ -114,21 +114,21 @@ QUESTIONS
 
 ### Lesson Images
 
-![Image](_images/page99_img1.png)
+![Image](../_images/page99_img1.png)
 
-![Image](_images/page99_img2.png)
+![Image](../_images/page99_img2.png)
 
-![Image](_images/page99_img3.png)
+![Image](../_images/page99_img3.png)
 
-![Image](_images/page99_img4.png)
+![Image](../_images/page99_img4.png)
 
-![Image](_images/page99_img5.png)
+![Image](../_images/page99_img5.png)
 
-![Image](_images/page99_img6.png)
+![Image](../_images/page99_img6.png)
 
-![Image](_images/page99_img7.png)
+![Image](../_images/page99_img7.png)
 
-![Image](_images/page99_img8.png)
+![Image](../_images/page99_img8.png)
 
 ---
 

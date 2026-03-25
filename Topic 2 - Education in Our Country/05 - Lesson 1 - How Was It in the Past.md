@@ -79,23 +79,23 @@ II. The piai gave all children education about plants and herbs.
 
 ## Images
 
-![_images/page27_img1.jpeg](_images/page27_img1.jpeg)
+![_images/page27_img1.jpeg](../_images/page27_img1.jpeg)
 
-![_images/page27_img2.png](_images/page27_img2.png)
+![_images/page27_img2.png](../_images/page27_img2.png)
 
-![_images/page27_img3.png](_images/page27_img3.png)
+![_images/page27_img3.png](../_images/page27_img3.png)
 
-![_images/page27_img4.png](_images/page27_img4.png)
+![_images/page27_img4.png](../_images/page27_img4.png)
 
-![_images/page27_img5.png](_images/page27_img5.png)
+![_images/page27_img5.png](../_images/page27_img5.png)
 
-![_images/page27_img6.png](_images/page27_img6.png)
+![_images/page27_img6.png](../_images/page27_img6.png)
 
-![_images/page28_img1.png](_images/page28_img1.png)
+![_images/page28_img1.png](../_images/page28_img1.png)
 
-![_images/page28_img2.png](_images/page28_img2.png)
+![_images/page28_img2.png](../_images/page28_img2.png)
 
-![_images/page29_img1.png](_images/page29_img1.png)
+![_images/page29_img1.png](../_images/page29_img1.png)
 
 ---
 
