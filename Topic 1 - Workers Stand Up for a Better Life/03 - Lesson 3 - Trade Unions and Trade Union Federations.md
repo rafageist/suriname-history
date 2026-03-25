@@ -1,3 +1,7 @@
+---
+feature: _images/page19_img1.png
+thumbnail: thumbnails/resized/b94f6b3cf7eb7e421e22f6a1cf356ca6_86cf658e.webp
+---
 # Topic 1: Workers Stand Up for a Better Life
 
 ## Lesson 3: Trade Unions and Trade Union Federations

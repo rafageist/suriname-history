@@ -1,3 +1,7 @@
+---
+feature: _images/page16_img1.png
+thumbnail: thumbnails/resized/86f9a4a238d64ec2d6779a7f0f053273_86cf658e.webp
+---
 # Topic 1: Workers Stand Up for a Better Life
 
 ## Lesson 2: Louis Doedel and Anton de Kom
