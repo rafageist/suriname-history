@@ -1,3 +1,7 @@
+---
+feature: _images/page99_img1.png
+thumbnail: thumbnails/resized/3c7d1b6f33b247125e41ec98dc5a4bcc_86cf658e.webp
+---
 # Our Country, an Independent Republic
 
 ## Lesson 3: Changes in Government

@@ -1,3 +1,7 @@
+---
+feature: _images/page93_img1.jpeg
+thumbnail: thumbnails/resized/7f924b4ced813304e462faf1e0115261_86cf658e.webp
+---
 # Our Country, an Independent Republic
 
 ## Lesson 1: The Independence of Our Country

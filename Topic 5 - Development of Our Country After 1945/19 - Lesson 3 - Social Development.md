@@ -1,3 +1,7 @@
+---
+feature: _images/page73_img1.png
+thumbnail: thumbnails/resized/7e369bf74f83b999d713e5d33eda07ea_86cf658e.webp
+---
 # Development of Our Country After 1945
 
 ## Lesson 3: Social Development

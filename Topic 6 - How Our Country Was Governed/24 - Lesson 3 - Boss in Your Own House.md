@@ -1,3 +1,7 @@
+---
+feature: _images/page85_img1.png
+thumbnail: thumbnails/resized/e469a9fc9909c7b77bd0aa074d82715d_86cf658e.webp
+---
 # How Our Country Was Governed
 
 ## Lesson 3: Boss in Your Own House!

@@ -1,3 +1,7 @@
+---
+feature: _images/page79_img1.png
+thumbnail: thumbnails/resized/a0a543dfa52ed0cefac2d2eb5f6d8ef4_86cf658e.webp
+---
 # How Our Country Was Governed
 
 ## Lesson 1: The Governor and the Political Council

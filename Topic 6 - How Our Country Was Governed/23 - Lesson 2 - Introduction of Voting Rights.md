@@ -1,3 +1,7 @@
+---
+feature: _images/page82_img1.png
+thumbnail: thumbnails/resized/84413726e9cb76a7659b29d0d7150950_86cf658e.webp
+---
 # How Our Country Was Governed
 
 ## Lesson 2: Introduction of Voting Rights

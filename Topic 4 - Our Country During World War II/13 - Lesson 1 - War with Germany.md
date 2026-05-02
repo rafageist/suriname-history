@@ -1,3 +1,7 @@
+---
+feature: _images/page55_img1.png
+thumbnail: thumbnails/resized/a7c5c57b90ed81f453cb0d5c86879736_86cf658e.webp
+---
 # Topic 4: Our Country During World War II
 
 ## Lesson 1: War with Germany

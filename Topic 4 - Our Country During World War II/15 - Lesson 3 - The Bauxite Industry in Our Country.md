@@ -1,3 +1,7 @@
+---
+feature: _images/page61_img1.png
+thumbnail: thumbnails/resized/0f075e1f09ac224d29e53f022d17da24_86cf658e.webp
+---
 # Our Country During World War II
 
 ## Lesson 3: The Bauxite Industry in Our Country

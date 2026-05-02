@@ -1,3 +1,7 @@
+---
+feature: _images/page45_img1.png
+thumbnail: thumbnails/resized/03facbd4535b852a5d4b081f02790917_86cf658e.webp
+---
 # Topic 3: Different Cultures in Our Country
 
 ## Lesson 2: Experiencing Culture

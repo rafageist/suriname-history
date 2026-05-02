@@ -1,3 +1,7 @@
+---
+feature: _images/page13_img1.png
+thumbnail: thumbnails/resized/3a26685c6b50fc0bda16ccc92f1e6204_86cf658e.webp
+---
 # Topic 1: Workers Stand Up for a Better Life
 
 ## Lesson 1: A Time of Crisis and Unemployment

@@ -1,3 +1,7 @@
+---
+feature: _images/page65_img1.png
+thumbnail: thumbnails/resized/96da30ce534bdd4ff38cc27895f0d1cd_86cf658e.webp
+---
 # Development of Our Country After 1945
 
 ## Introduction: Development of Our Country After 1945

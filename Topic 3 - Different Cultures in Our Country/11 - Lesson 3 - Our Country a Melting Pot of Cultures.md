@@ -1,3 +1,7 @@
+---
+feature: _images/page48_img1.png
+thumbnail: thumbnails/resized/1309971c6de7b9b2f4c119c5d9f4bbdb_86cf658e.webp
+---
 # Topic 3: Different Cultures in Our Country
 
 ## Lesson 3: Our Country, a Melting Pot of Cultures

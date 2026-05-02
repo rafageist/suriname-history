@@ -1,3 +1,7 @@
+---
+feature: _images/page70_img1.jpeg
+thumbnail: thumbnails/resized/e9e3bfcd1a28620d9888ec48cb013fd9_86cf658e.webp
+---
 # Development of Our Country After 1945
 
 ## Lesson 2: The Brokopondo Dam in the Suriname River

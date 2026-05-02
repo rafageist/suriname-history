@@ -1,3 +1,7 @@
+---
+feature: _images/page77_img1.jpeg
+thumbnail: thumbnails/resized/b2a24e24e65dd581ad2beb4633938c9a_86cf658e.webp
+---
 # How Our Country Was Governed
 
 ## Introduction: How Our Country Was Governed

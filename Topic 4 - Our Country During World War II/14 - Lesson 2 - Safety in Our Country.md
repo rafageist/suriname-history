@@ -1,3 +1,7 @@
+---
+feature: _images/page58_img1.png
+thumbnail: thumbnails/resized/56786605da5811c23d005f6b86bc6fbd_86cf658e.webp
+---
 # Our Country During World War II
 
 ## Lesson 2: Safety in Our Country

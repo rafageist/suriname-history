@@ -1,3 +1,7 @@
+---
+feature: _images/page27_img1.jpeg
+thumbnail: thumbnails/resized/d7d813654def42d4ba0f15e265d2170c_86cf658e.webp
+---
 # Topic 2: Education in Our Country
 
 ## Lesson 1: How Was It in the Past?

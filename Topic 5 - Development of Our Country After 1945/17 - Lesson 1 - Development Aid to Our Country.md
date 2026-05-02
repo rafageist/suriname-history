@@ -1,3 +1,7 @@
+---
+feature: _images/page67_img1.png
+thumbnail: thumbnails/resized/e004a795a8f05d3968eceabf1740357a_86cf658e.webp
+---
 # Development of Our Country After 1945
 
 ## Lesson 1: Development Aid to Our Country

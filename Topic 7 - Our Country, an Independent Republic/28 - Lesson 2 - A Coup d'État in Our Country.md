@@ -1,3 +1,7 @@
+---
+feature: _images/page96_img1.png
+thumbnail: thumbnails/resized/ec014d64205d606c60fd323c375ff663_86cf658e.webp
+---
 # Our Country, an Independent Republic
 
 ## Lesson 2: A Coup d'État in Our Country

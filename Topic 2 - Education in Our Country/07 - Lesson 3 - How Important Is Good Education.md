@@ -1,3 +1,7 @@
+---
+feature: _images/page34_img1.png
+thumbnail: thumbnails/resized/847542c274df44535f65d516ca1e3cc7_86cf658e.webp
+---
 # Topic 2: Education in Our Country
 
 ## Lesson 3: How Important Is Good Education?

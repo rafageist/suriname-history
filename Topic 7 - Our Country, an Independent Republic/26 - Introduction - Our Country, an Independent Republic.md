@@ -1,3 +1,7 @@
+---
+feature: _images/page91_img1.jpeg
+thumbnail: thumbnails/resized/6fe291aa8cc3cfa80252edda5078c32a_86cf658e.webp
+---
 # Our Country, an Independent Republic
 
 ## Introduction: Our Country, an Independent Republic

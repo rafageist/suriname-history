@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "b2b75e9322925cf6",
+        "id": "bf3c4603050d95aa",
         "type": "tabs",
         "children": [
           {
-            "id": "3a4273850473e315",
+            "id": "59fde85b2484399b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Topic 3 - Different Cultures in Our Country/11 - Lesson 3 - Our Country a Melting Pot of Cultures.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "11 - Lesson 3 - Our Country a Melting Pot of Cultures"
+              "title": "New tab"
             }
           }
         ]
@@ -185,8 +181,22 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3a4273850473e315",
+  "active": "59fde85b2484399b",
   "lastOpenFiles": [
+    "thumbnails/resized/3c7d1b6f33b247125e41ec98dc5a4bcc_86cf658e.webp",
+    "thumbnails/resized/ec014d64205d606c60fd323c375ff663_86cf658e.webp",
+    "thumbnails/resized/7f924b4ced813304e462faf1e0115261_86cf658e.webp",
+    "thumbnails/resized/6fe291aa8cc3cfa80252edda5078c32a_86cf658e.webp",
+    "thumbnails/resized/e469a9fc9909c7b77bd0aa074d82715d_86cf658e.webp",
+    "thumbnails/resized/84413726e9cb76a7659b29d0d7150950_86cf658e.webp",
+    "thumbnails/resized/a0a543dfa52ed0cefac2d2eb5f6d8ef4_86cf658e.webp",
+    "thumbnails/resized/b2a24e24e65dd581ad2beb4633938c9a_86cf658e.webp",
+    "thumbnails/resized/7e369bf74f83b999d713e5d33eda07ea_86cf658e.webp",
+    "thumbnails/resized/e9e3bfcd1a28620d9888ec48cb013fd9_86cf658e.webp",
+    "thumbnails/resized/e004a795a8f05d3968eceabf1740357a_86cf658e.webp",
+    "Topic 3 - Different Cultures in Our Country/11 - Lesson 3 - Our Country a Melting Pot of Cultures.md",
+    "thumbnails/resized",
+    "thumbnails",
     "Topic 3 - Different Cultures in Our Country/10 - Lesson 2 - Experiencing Culture.md",
     "Topic 3 - Different Cultures in Our Country/09 - Lesson 1 - How We Came Together Here.md",
     "Topic 3 - Different Cultures in Our Country/08 - Introduction - Different Cultures in Our Country.md",
@@ -194,10 +204,6 @@
     "Topic 1 - Workers Stand Up for a Better Life/01 - Introduction - Workers Stand Up for a Better Life.md",
     "Topic 4 - Our Country During World War II/12 - Practice Exercises.md",
     "Topic 2 - Education in Our Country/02 - Practice Exercises.md",
-    "thumbnails/resized/b94f6b3cf7eb7e421e22f6a1cf356ca6_86cf658e.webp",
-    "thumbnails/resized/86f9a4a238d64ec2d6779a7f0f053273_86cf658e.webp",
-    "thumbnails/resized",
-    "thumbnails",
     "Topic 1 - Workers Stand Up for a Better Life/03 - Practice Exercises.md",
     "Topic 1 - Workers Stand Up for a Better Life/03 - Lesson 3 - Trade Unions and Trade Union Federations.md",
     "Topic 1 - Workers Stand Up for a Better Life/02 - Practice Exercises.md",
@@ -217,21 +223,11 @@
     "Topic 6 - How Our Country Was Governed/24 - Lesson 3 - Boss in Your Own House.md",
     "Topic 6 - How Our Country Was Governed/23 - Lesson 2 - Introduction of Voting Rights.md",
     "Topic 6 - How Our Country Was Governed/22 - Lesson 1 - The Governor and the Political Council.md",
-    "Topic 6 - How Our Country Was Governed/21 - Introduction - How Our Country Was Governed.md",
-    "Topic 5 - Development of Our Country After 1945/20 - Practice Exercises.md",
     "Topic 7 - Our Country, an Independent Republic",
     "Topic 6 - How Our Country Was Governed",
     "Topic 5 - Development of Our Country After 1945",
     "Topic 4 - Our Country During World War II",
     "Topic 3 - Different Cultures in Our Country",
-    "Topic 2 - Education in Our Country",
-    "lecciones/07 - Les 3 - Changes in Government/images/page99_img8.png",
-    "lecciones/07 - Les 3 - Changes in Government/images/page99_img7.png",
-    "lecciones/07 - Les 3 - Changes in Government/images/page99_img6.png",
-    "lecciones/07 - Les 3 - Changes in Government/images/page99_img5.png",
-    "lecciones/07 - Les 3 - Changes in Government/images/page99_img4.png",
-    "lecciones/07 - Les 3 - Changes in Government/images/page99_img3.png",
-    "lecciones/07 - Les 3 - Changes in Government/images/page99_img2.png",
-    "lecciones/07 - Les 3 - Changes in Government/images/page99_img1.png"
+    "Topic 2 - Education in Our Country"
   ]
 }

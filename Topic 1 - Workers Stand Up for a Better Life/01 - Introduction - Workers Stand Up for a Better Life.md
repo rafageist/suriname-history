@@ -1,3 +1,7 @@
+---
+feature: _images/page11_img1.png
+thumbnail: thumbnails/resized/83e736b25f6a6d904f5e64d5075e3fb0_86cf658e.webp
+---
 # Topic 1: Workers Stand Up for a Better Life
 
 ## Introduction: Workers Stand Up for a Better Life

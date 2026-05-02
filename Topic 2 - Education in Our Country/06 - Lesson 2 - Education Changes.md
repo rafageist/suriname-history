@@ -1,3 +1,7 @@
+---
+feature: _images/page31_img1.png
+thumbnail: thumbnails/resized/3e2cf1cc497f84331e7383d1ef47ef05_86cf658e.webp
+---
 # Topic 2: Education in Our Country
 
 ## Lesson 2: Education Changes

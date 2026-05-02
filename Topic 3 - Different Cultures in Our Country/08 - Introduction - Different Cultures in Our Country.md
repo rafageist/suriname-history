@@ -1,3 +1,7 @@
+---
+feature: _images/page39_img1.png
+thumbnail: thumbnails/resized/1b4d0cfffe862dd9684dc61fb7a76e50_86cf658e.webp
+---
 # Topic 3: Different Cultures in Our Country
 
 ## Introduction: Different Cultures in Our Country

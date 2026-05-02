@@ -1,3 +1,7 @@
+---
+feature: _images/page41_img1.jpeg
+thumbnail: thumbnails/resized/713c68d7f5ff9953216a1bd7ddc09f40_86cf658e.webp
+---
 # Topic 3: Different Cultures in Our Country
 
 ## Lesson 1: How We Came Together Here

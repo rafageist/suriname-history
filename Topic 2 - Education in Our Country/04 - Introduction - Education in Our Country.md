@@ -1,3 +1,7 @@
+---
+feature: _images/page25_img1.png
+thumbnail: thumbnails/resized/a8c0270b996d2bffc11c284bbc449162_86cf658e.webp
+---
 # Topic 2: Education in Our Country
 
 ## Introduction: Education in Our Country

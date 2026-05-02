@@ -1,3 +1,7 @@
+---
+feature: _images/page53_img1.png
+thumbnail: thumbnails/resized/a637e95727eb0e1107fb7cc5445cb1a7_86cf658e.webp
+---
 # Topic 4: Our Country During World War II
 
 ## Introduction: Our Country During World War II
